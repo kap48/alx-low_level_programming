@@ -5,7 +5,7 @@
 */
 int main(void)
 {
-	char alp[24] = "abcdefghijklmnopqrstuvwxyz";
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
 	for (i = 24; i >= 0; i--)
